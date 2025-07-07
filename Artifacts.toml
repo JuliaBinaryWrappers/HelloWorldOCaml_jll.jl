@@ -1,0 +1,78 @@
+[[HelloWorldOCaml]]
+arch = "aarch64"
+git-tree-sha1 = "360e76aedda0b5a41ce3c7d5e8f27b13296933da"
+os = "macos"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "71d6821bf606053f15c5e4d2a99e74f14262060d515b25afbe08dd9ff048870f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[HelloWorldOCaml]]
+arch = "aarch64"
+git-tree-sha1 = "8ed167ca887fc0b54bd9466e85fa27ec0a4f1335"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "b9e62c078f7c1e6553a69f7c95325be7e34708dd1d551d6dc8e8ac140e74e40d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[HelloWorldOCaml]]
+arch = "aarch64"
+git-tree-sha1 = "510d366bc42ef6b31329807cc944ccdf877de3af"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "1a09d623a1321902fc35607e5dc8f86026afa87c46976465edefd9c85da8fd72"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.aarch64-linux-musl.tar.gz"
+[[HelloWorldOCaml]]
+arch = "powerpc64le"
+git-tree-sha1 = "9e595ac8ed876ce2da828ceed1ff990df356ab41"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "1ba5235ee083e4d5abbdaed8e4c8c6a29e03a08f0fb9187376e85110109b0d31"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[HelloWorldOCaml]]
+arch = "riscv64"
+git-tree-sha1 = "07cdebf5f0aa672429e6dab0a9c0ca34d37d2dd5"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "4bd2dd80e6a3d399590223e3a67ef23ce757b8d0f377bb9bbec1e3ab52a57d70"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.riscv64-linux-gnu.tar.gz"
+[[HelloWorldOCaml]]
+arch = "x86_64"
+git-tree-sha1 = "ef729e15c6059586cc7ae1ca09f8268d237564a2"
+os = "macos"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "cfae3fd6f38d1bed26fef084c55fb37801c74da00af8b00fbd763ac42aacaaa9"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[HelloWorldOCaml]]
+arch = "x86_64"
+git-tree-sha1 = "50234df01ab52e2721eb7a9091f7ed7511cd443d"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "a0ce3648c477a1693fa187caf8125f40f07470ee54f08c828e9e48279c6e4a18"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[HelloWorldOCaml]]
+arch = "x86_64"
+git-tree-sha1 = "a271cdee5676992a5c624834ef8430c3b57aa4eb"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "68d84ce9c6094349caea005c247ed089ad91e666b3bfc0140b594320153f24ad"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.x86_64-linux-musl.tar.gz"
+[[HelloWorldOCaml]]
+arch = "x86_64"
+git-tree-sha1 = "b3db023855c2a0c3b06de63395844b149e35c3b8"
+os = "windows"
+
+    [[HelloWorldOCaml.download]]
+    sha256 = "f8e18a0209ebfb344f2ff71955f1e26190545f6785cc0dd85f0dec2aa0c0528b"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldOCaml_jll.jl/releases/download/HelloWorldOCaml-v1.0.0+0/HelloWorldOCaml.v1.0.0.x86_64-w64-mingw32.tar.gz"
